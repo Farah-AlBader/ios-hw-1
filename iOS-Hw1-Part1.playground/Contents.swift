@@ -104,17 +104,26 @@ Age1 != 17
 Age2 != 17
 Age3 != 17
   
-var bonus = "iOS"
-print(bonus)
 
+// Bonus
 
-
-
-
-
-
-
-
+print(" * * ")
+print("*   *")
+print(" * *             ******              * *")
+print("               *        *          *      *")
+print("  *           *          *        *        *")
+print("  *           *          *        *          ")
+print("  *           *          *        *          ")
+print("  *           *          *         *         ")
+print("  *           *          *           *         ")
+print("  *           *          *             *         ")
+print("  *           *          *               *          ")
+print("  *           *          *                *          ")
+print("  *           *          *                 *          ")
+print("  *           *          *                 *          ")
+print("  *           *          *        *        *          ")
+print("  *            *        *          *      *")
+print("  *              ******               * *     *")
 
 
 

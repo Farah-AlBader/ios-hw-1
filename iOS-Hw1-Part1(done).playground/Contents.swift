@@ -88,17 +88,13 @@ Age1 == Age2 || Age2 == Age3 || Age1 == Age3
 
 Area1 == Area2 || Area2 == Area3 || Area1 == Area3
 
-Age1 > 18
-Age2 > 18
-Age3 > 18
+Age1 >= 18
+Age2 >= 18
+Age3 >= 18
 
 Age1 < 18
 Age2 < 18
 Age3 < 18
-
-Age1 == 18
-Age2 == 18
-Age3 == 18
 
 Age1 == 17
 Age2 == 17
@@ -107,18 +103,27 @@ Age3 == 17
 Age1 != 17
 Age2 != 17
 Age3 != 17
+  
 
+// Bonus
 
-
-
-
-
-
-
-
-
-
-
+print(" * * ")
+print("*   *")
+print(" * *             ******              * *")
+print("               *        *          *      *")
+print("  *           *          *        *        *")
+print("  *           *          *        *          ")
+print("  *           *          *        *          ")
+print("  *           *          *         *         ")
+print("  *           *          *           *         ")
+print("  *           *          *             *         ")
+print("  *           *          *               *          ")
+print("  *           *          *                *          ")
+print("  *           *          *                 *          ")
+print("  *           *          *                 *          ")
+print("  *           *          *        *        *          ")
+print("  *            *        *          *      *")
+print("  *              ******               * *     *")
 
 
 
