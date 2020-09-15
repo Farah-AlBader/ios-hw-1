@@ -85,8 +85,8 @@ for FirstNumbers in 1...5 {
     
 // Bonus🌟
  
-for dot in 0...139 {
-    if dot % 20 == 0 {
+for dot in 0...15 {
+    if dot % 4 == 0 {
         print("")
     }
     print("* ", terminator: "")
